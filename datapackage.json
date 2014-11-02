@@ -1,0 +1,46 @@
+{
+    "name": "dan-data",
+    "title": "Liste des Députés de la XIIème Législature du Sénégal selon  http://www.assemblee-nationale.sn/",
+    "licenses": [
+        {
+            "id": "odc-pddl",
+            "name": "Public Domain Dedication and License",
+            "version": "1.0",
+            "url": "http://opendatacommons.org/licenses/pddl/1.0/"
+        }
+    ],
+    "resources": [
+        {
+            "path": "/data/data.csv",
+            "format": "csv",
+            "mediatype": "text/csv",
+            "schema": {
+                "fields": [
+                    {
+                        "id": "Id",
+                        "description": "",
+                        "type": "integer"
+                    },
+                    {
+                        "id": "Prenom",
+                        "description": "",
+                        "type": "string",
+                    },
+                    {
+                        "id": "Nom",
+                        "description": "",
+                        "type": "string"
+                    },
+                    {
+                        "id": "Email",
+                        "description": "",
+                        "type": "string"
+                    }
+                ],
+                "views": []
+            }
+        }
+    ]
+}
+
+ 

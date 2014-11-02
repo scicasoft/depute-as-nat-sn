@@ -1,0 +1,151 @@
+id,Prénom,Nom,Email
+1,M. Aimé,ASSINE,aime.assine@assemblee-nationale.sn
+2,M. Mamadou,BADJI,mamadou.badji@assemblee-nationale.sn
+3,M. Abdoulaye,BALDE,abdoulaye.balde@assemblee-nationale.sn
+4,M. Alpha,BALDE,alpha.balde@assemblee-nationale.sn
+5,Mme Alyatou Taïbou,BALDE,alyatou-taibou.balde@assemblee-nationale.sn
+6,M. Samba C. Diaman,BATHILY,samba.bathily@assemblee-nationale.sn
+7,M. Boubacar   Villiemmbo,BIAYE,boubacar-villiemmbo.biaye@assemblee-nationale.sn
+8,M. Thierno,BOCOUM,thierno.bocoum@assemblee-nationale.sn
+9,M. Inthy,BOIRO,inty.boiro@assemblee-nationale.sn
+10,M. El hadji Amath,CISSE,amath.cisse@assemblee-nationale.sn
+11,Mme Katy,CISSE,katy.cisse@assemblee-nationale.sn
+12,M. Mamadou,CISSE,mamadou.cisse@assemblee-nationale.sn
+13,Mme Ndèye Lucie,CISSE,lucie.cisse@assemblee-nationale.sn
+14,M. Bakary,DANFA,bakary.danfa@assemblee-nationale.sn
+15,M. Sadio,DANSOKHO,sadio.dansokho@assemblee-nationale.sn
+16,Mme Coumba Hamidou,DEME,coumba.deme@assemblee-nationale.sn
+17,M. Ahmadou,DIA,ahmadou.dia@assemblee-nationale.sn
+18,Mme Aïssatou Daouda,DIA,aissatou-daouda.dia@assemblee-nationale.sn
+19,M. Daouda,DIA,daouda.dia@assemblee-nationale.sn
+20,Mme Haoua,DIA,haoua.dia@assemblee-nationale.sn
+21,Mme Awa,DIAGNE,awa.diagne@assemblee-nationale.sn
+22,M. Modou,DIAGNE,mamadou.diagne@assemblee-nationale.sn
+23,Mme Mously,DIAKHATE,mously.diakhate@assemblee-nationale.sn
+24,M. Moustapha,DIAKHATE,moustapha.diakhate@assemblee-nationale.sn
+25,M. Oumar,DIAKHATE,oumar.diakhate@assemblee-nationale.sn
+26,Mme Bintou,DIAKHO,bintou.diakho@assemblee-nationale.sn
+27,Mme Aminata,DIALLO,aminata.diallo@assemblee-nationale.sn
+28,M. Idrissa,DIALLO,idrissa.diallo@assemblee-nationale.sn
+29,M. Mamadou Lamine,DIALLO,mamadou-lamine.diallo@assemblee-nationale.sn
+30,M. Mamadou Sadio,DIALLO,mamadou-sadio.diallo@assemblee-nationale.sn
+31,Mme Mariama,DIALLO,mariama.diallo@assemblee-nationale.sn
+32,M. Seydou,DIALLO,seydou.diallo@assemblee-nationale.sn
+33,M. Babacar,DIAME,babacar.diame@assemblee-nationale.sn
+34,Mme Oulèye,DIAOU,ouleye.diaou@assemblee-nationale.sn
+35,M. Barthélémy Toye,DIAS,barthelemy.dias@assemblee-nationale.sn
+36,Mme Aramatoulaye,DIATTA,aramatoulaye.diatta@assemblee-nationale.sn
+37,Mme Khary,DIAW,khary.diaw@assemblee-nationale.sn
+38,Mme Aïssatou SOW,DIAWARA,aissatou-sow.diawara@assemblee-nationale.sn
+39,Mme Khadidiatou,DIEDHIOU,khadidiatou.diedhiou@assemblee-nationale.sn
+40,M. Mouhamed,DIEDHIOU,mouhamed.diedhiou@assemblee-nationale.sn
+41,M. Mouhamed,DIENG,mouhamed.dieng@assemblee-nationale.sn
+42,Mme Penda Seck,DIENG,penda-seck.dieng@assemblee-nationale.sn
+43,Mme Saïnabou,DIENG,sainabou.dieng@assemblee-nationale.sn
+44,Mme Sokhna,DIENG,sokhna.dieng@assemblee-nationale.sn
+45,Mme Ndèye Maguette,DIEYE,ndeye-maguette.dieye@assemblee-nationale.sn
+46,M. Magatte,DIOKH,magatte.diokh@assemblee-nationale.sn
+47,M. Cheikh Diop,DIONE,cheikh-diop.dione@assemblee-nationale.sn
+48,Mme Mbayame Guèye,DIONE,mbayame-gueye.dione@assemblee-nationale.sn
+49,M. Abdoulaye Matar,DIOP,abdoulaye-matar.diop@assemblee-nationale.sn
+50,M. Amadou Mame,DIOP,amadou-mame.diop@assemblee-nationale.sn
+51,Mme Amy Cheikh,DIOP,amy-cheikh.diop@assemblee-nationale.sn
+52,Mme Awa,DIOP,awa.diop@assemblee-nationale.sn
+53,M. Demba,DIOP,demba.diop@assemblee-nationale.sn
+54,M. Mamadou,DIOP,mamadou.diop@assemblee-nationale.sn
+55,Mme Yaye Ndao,DIOP,yaye-ndao.diop@assemblee-nationale.sn
+56,Mme Aïssatou,DIOUF,aissatou.diouf@assemblee-nationale.sn
+57,M. Alioune Badara,DIOUF,alioune-badara.diouf@assemblee-nationale.sn
+58,M. Cheikh Tidiane,DIOUF,cheikh-tidiane.diouf@assemblee-nationale.sn
+59,M. El hadji Moustapha,DIOUF,elhadj-moustapha.diouf@assemblee-nationale.sn
+60,M. Mar,DIOUF,mar.diouf@assemblee-nationale.sn
+61,Mme Ndèye Fatou,DIOUF,ndeye-fatou.diouf@assemblee-nationale.sn
+62,Mme Ndiolé,DIOUF,ndiole.diouf@assemblee-nationale.sn
+63,Mme Sira Ndiaye,DIOUF,sira-ndiaye.diouf@assemblee-nationale.sn
+64,M. Fallou,FALL,fallou.fall@assemblee-nationale.sn
+65,Mme Garmy,FALL,garmy.fall@assemblee-nationale.sn
+66,Mme Madjiguène,FALL,madjiguene.fall@assemblee-nationale.sn
+67,M. Seydina,FALL,seydina.fall@assemblee-nationale.sn
+68,M. Mamadou,FAYE,mamadou.faye@assemblee-nationale.sn
+69,M. Alioune Abatalib,GUEYE,alioune-abatalib.gueye@assemblee-nationale.sn
+70,Mme Aminata,GUEYE,aminata.gueye@assemblee-nationale.sn
+71,Mme Awa,GUEYE,awa.gueye@assemblee-nationale.sn
+72,M. Djibo Leyti,KA,djibo-leyti.ka@assemblee-nationale.sn
+73,Mme Maïrame,KANE,mairame.kane@assemblee-nationale.sn
+74,Mme Diya,KANTE,diya.kante@assemblee-nationale.sn
+75,M. Aliou,KEBE,aliou.kebe@assemblee-nationale.sn
+76,M. Samba,KOITA,samba.koita@assemblee-nationale.sn
+77,Mme Salimata,KORERA,salimata.korera@assemblee-nationale.sn
+78,Mme Mingue,LAM,mingue.lam@assemblee-nationale.sn
+79,M. Ibrahima,LO,ibrahima.lo@assemblee-nationale.sn
+80,M. Mame Balla,LO,mame-balla.lo@assemblee-nationale.sn
+81,M. Moustapha Cissé,LO,moustapha-cisse.lo@assemblee-nationale.sn
+82,Mme Khady,MANE,khady.mane@assemblee-nationale.sn
+83,Mme Mariama,MANE,mariama.mane@assemblee-nationale.sn
+84,Mme Oulimata,MANE,oulimata.mane@assemblee-nationale.sn
+85,M. El hadji,MANGANE,elhadji-mangane@assemblee-nationale.sn
+86,M. El hadji Falilou,MBACKE,elhadji-falilou.mbacke@assemblee-nationale.sn
+87,Mme Mame Khary,MBACKE,mame-khary.mbacke@assemblee-nationale.sn
+88,Mme Aminata,MBAYE,aminata.mbaye@assemblee-nationale.sn
+89,M. Pape Diallo dit   Zator,MBAYE,pape-zator.mbaye@assemblee-nationale.sn
+90,Mme Aïssatou,MBODJ,aissatou.mbodj@assemblee-nationale.sn
+91,Mme Magatte,MBODJ,magatte.mbodj@assemblee-nationale.sn
+92,Mme Ndèye Awa,MBODJ,ndeye-awa.mbodj@assemblee-nationale.sn
+93,M. Pape Abdou Khadir,MBODJ,pape-ak.mbodj@assemblee-nationale.sn
+94,M. Abdou,MBOW,abdou.mbow@assemblee-nationale.sn
+95,M. Abdou,NDIAYE,abdou.ndiaye@assemblee-nationale.sn
+96,M. Cheikh,NDIAYE,cheikh.ndiaye@assemblee-nationale.sn
+97,M. Cheikh Tidiane,NDIAYE,cheikh-tidiane.ndiaye@assemblee-nationale.sn
+98,M. Mamadou M.,NDIAYE,mamadou-m.ndiaye@assemblee-nationale.sn
+99,Mme Ndèye Dieynaba,NDIAYE,ndeye-dieynaba.ndiaye@assemblee-nationale.sn
+100,M. Samba Demba,NDIAYE,samba-demba.ndiaye@assemblee-nationale.sn
+101,Mme Nafy,NDIOGOU,nafy.ndiogou@assemblee-nationale.sn
+102,Mme Elène Marie,NDIONE,elene-marie.ndione@assemblee-nationale.sn
+103,M. Alassane,NDOYE,alassane.ndoye@assemblee-nationale.sn
+104,M. Souleymane,NDOYE,souleymane.ndoye@assemblee-nationale.sn
+105,M. El hadji Ousmane   Alioune,NGOM,ousmane.ngom@assemblee-nationale.sn
+106,M. Mouhamadou,NGOM,mouhamadou.ngom@assemblee-nationale.sn
+107,Mme Nafy,NGOM,nafy.ngom@assemblee-nationale.sn
+108,Mme Awa,NIANG,awa.niang@assemblee-nationale.sn
+109,M. Mbaye,NIANG,mbaye.niang@assemblee-nationale.sn
+110,M. Mouhamed   Khouraïchi,NIASS,mouhamed-khouraichi.niass@assemblee-nationale.sn
+111,M. Doudou Issa,NIASSE,doudou-issa.niasse@assemblee-nationale.sn
+112,M. Moustapha,NIASSE,moustapha.nasse@assemblee-nationale.sn
+113,Mme Aïssatou,SABARA,aissatou.sabara@assemblee-nationale.sn
+114,Mme Thiané,SAKHO,thiane.sakho@assemblee-nationale.sn
+115,Mme Aïssatou Bambado,SALL,aissatou-bambado.sall@assemblee-nationale.sn
+116,M. El hadji Mamadou,SALL,elhadji-mamadou.sall@assemblee-nationale.sn
+117,M. Ibrahima Baba,SALL,ibrahima-baba.sall@assemblee-nationale.sn
+118,M. Sangoné,SALL,sangone.sall@assemblee-nationale.sn
+119,M. Ibrahima,SANE,ibrahima.sane@assemblee-nationale.sn
+120,Mme Khorédia,SANE,khoredia.sane@assemblee-nationale.sn
+121,Mme Anta,SARR,anta.sarr@assemblee-nationale.sn
+122,M. Oumar,SARR N°1,oumar-sarr1@assemblee-nationale.sn
+123,M. Oumar,SARR N°2,oumar-sarr2@assemblee-nationale.sn
+124,Mme Thillo,SARR,thillo.sarr@assemblee-nationale.sn
+125,Mme Woraye,SARR,woraye.sarr@assemblee-nationale.sn
+126,M. Abdoulahat,SECK,abdoulahat.seck@assemblee-nationale.sn
+127,M. Cheikh,SECK,cheikh.seck@assemblee-nationale.sn
+128,Mme Marie Thérèse   Aïda,SECK,marie-therese.seck@assemblee-nationale.sn
+129,M. Djimo,SOUARE,djimo.souare@assemblee-nationale.sn
+130,M. Adama,SOW,adama.sow@assemblee-nationale.sn
+131,M. Aliou Demba,SOW,aliou-demba.sow@assemblee-nationale.sn
+132,Mme Awa,SOW,awa.sow@assemblee-nationale.sn
+133,Mme Yetta,SOW,yetta.sow@assemblee-nationale.sn
+134,M. Cheikh Oumar,SY,cheikh-oumar.sy@assemblee-nationale.sn
+135,M. El hadji Mansor,SY,elhadji-mansor.sy@assemblee-nationale.sn
+136,M. Oumar,SY,oumar.sy@assemblee-nationale.sn
+137,Mme Adama,SYLLA,adama.sylla@assemblee-nationale.sn
+138,M. Mberry,SYLLA,mberry.sylla@assemblee-nationale.sn
+139,Mme Aïssata,TALL,aissata.tall@assemblee-nationale.sn
+140,Mme Magatte,TALL,magatte.tall@assemblee-nationale.sn
+141,M. Amadou Tidiane,TALLA,amadou-tidiane.talla@assemblee-nationale.sn
+142,Mme Fatou,THIAM,fatou.thiam@assemblee-nationale.sn
+143,M. Iba Der,THIAM,iba-der.thiam@assemblee-nationale.sn
+144,M. Mamadou Lamine,THIAM,mamadou-lamine.thiam@assemblee-nationale.sn
+145,M. Moussa Abdoul,THIAM,moussa-abdoul.thiam@assemblee-nationale.sn
+146,M. Samba Diouldé,THIAM,samba-dioulde.thiam@assemblee-nationale.sn
+147,M. Serigne Khadim,THIOUNE,serigne-khadim.thioune@assemblee-nationale.sn
+148,M. Pape Biram,TOURE,pape-biram.toure@assemblee-nationale.sn
+149,Mme Seynabou,WADE,seynabou.wade@assemblee-nationale.sn
+150,M. Djibril,WAR,djibril.war@assemblee-nationale.sn
