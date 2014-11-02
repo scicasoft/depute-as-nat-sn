@@ -13,7 +13,7 @@ Ce dépôt contient la liste des 150 députés du sénégal en ordre alphabétiq
 ### Run :
 To run this script, you must be in the root folder and you type:
   
-  python scrapper.py
+    python scrapper.py
   
 ### For Lambda users
 Just download the Zip it contains a csv and json file.
