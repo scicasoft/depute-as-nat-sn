@@ -4,6 +4,7 @@ depute-as-nat-sn
 Liste des Députés de la XIIème Législature du Sénégal
 
 Ce dépôt contient la liste des 150 députés du sénégal en ordre alphabétique avec le nom, le prénom, et l'adresse e-mail.
+année : 2014
 
 ## Deleloppeurs:
 
